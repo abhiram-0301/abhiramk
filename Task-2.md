@@ -45,7 +45,7 @@
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
-![WhatsApp Image 2024-02-22 at 12 03 23_6fcd04a3](https://github.com/Abdulbitm/Abdul/assets/160620896/46e11a1c-3476-40e4-971f-55791772b35b)
+![306988715-e091d9c9-ff82-476b-8893-83af782cd86c](https://github.com/abhiram-0301/abhiramk/assets/149863256/2f86e027-a568-450b-8141-a9c8d226879a)
 
 </details>
 
