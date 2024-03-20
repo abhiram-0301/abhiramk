@@ -1,9 +1,3 @@
-**Execution of the Task 4**
-
-
-**Use the following instructions to get the gtkwave window**
-
-
 ls - to check the contents of the folder
 
 ![WhatsApp Image 2024-03-14 at 14 50 21_25ac071c](https://github.com/Abdulbitm/Abdul/assets/160620896/48ef3f4b-a3ca-4d16-8fc1-d62554755ba7)
@@ -20,8 +14,6 @@ gtkwave abhiram.vcd**
 
 
 **Before moving to the execution of the instructions let us understand few parts of a verilog code**
-
-**-the code has been written in a systematic way and broken down into different parts**
 
 1. Instruction Fetch Stage
    
