@@ -1,7 +1,10 @@
-Below figure showing all these listed files using ls command 
-**after running the command ls gtkwave abhiram.vcd**
+Below figure showing all these listed files using ls command and after running the command ls
 
 ![Screenshot from 2024-03-21 18-23-26](https://github.com/abhiram-0301/abhiramk/assets/149863256/1b2d4f4c-00e3-42cb-af4d-8de8ad84f2f4)
+
+**after running the command gtkwave abhiram.vcd**
+
+![Screenshot 2024-03-20 210455](https://github.com/abhiram-0301/abhiramk/assets/149863256/204ceb47-0f07-48de-9332-538158e79a38)
 
 **Operations
 ADD Operation**
