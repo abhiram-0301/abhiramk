@@ -1,9 +1,6 @@
 ls - to check the contents of the folder
 
-![WhatsApp Image 2024-03-14 at 14 50 21_25ac071c](https://github.com/Abdulbitm/Abdul/assets/160620896/48ef3f4b-a3ca-4d16-8fc1-d62554755ba7)
 
-
-![WhatsApp Image 2024-03-14 at 14 50 21_698fdb9c](https://github.com/Abdulbitm/Abdul/assets/160620896/76ebb11f-b90d-4cff-b761-2970e4813fcf)
 
 **after running the command
 gtkwave abhiram.vcd**
