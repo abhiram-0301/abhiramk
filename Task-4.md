@@ -1,34 +1,36 @@
 ls - to check the contents of the folder
 
+![Screenshot from 2024-03-21 18-24-11](https://github.com/abhiram-0301/abhiramk/assets/149863256/e3434a3b-acc2-4462-916c-205569b7841b)
 
 
-**after running the command
-gtkwave abhiram.vcd**
+**after running the command ls**
 
+![Screenshot from 2024-03-21 18-24-29](https://github.com/abhiram-0301/abhiramk/assets/149863256/98933e4f-f8cc-4409-b038-32be00393960)
 
-![WhatsApp Image 2024-03-14 at 14 50 21_97442ae1](https://github.com/Abdulbitm/Abdul/assets/160620896/113dded2-a032-4b11-b39b-b75aae1a0e1d)
+**after running gtkwave abhiram.vcd**
 
+![Screenshot 2024-03-20 210455](https://github.com/abhiram-0301/abhiramk/assets/149863256/2a2690d5-4370-414b-ad46-7d718577462b)
 
 
 **Before moving to the execution of the instructions let us understand few parts of a verilog code**
 
 1. Instruction Fetch Stage
    
-   ![WhatsApp Image 2024-03-14 at 15 28 46_78f0ba3f](https://github.com/Abdulbitm/Abdul/assets/160620896/6009d228-beac-411e-a2ef-72ce8d6fad82)
+![Screenshot 2024-03-21 183315](https://github.com/abhiram-0301/abhiramk/assets/149863256/a8aae216-974e-4e2a-8d27-d3c4415ab7d0)
 
 2. Instruction Decode Stage
 
-   ![WhatsApp Image 2024-03-14 at 15 28 46_f6f08016](https://github.com/Abdulbitm/Abdul/assets/160620896/0bf49697-4e9e-42dc-adcf-eed7df8e957c)
+![Screenshot 2024-03-21 183336](https://github.com/abhiram-0301/abhiramk/assets/149863256/bcb1963f-e139-4ff5-9221-268abe85748d)
 
 
 3. Contents of registers and registers used
 
-   ![WhatsApp Image 2024-03-14 at 15 28 46_d99accca](https://github.com/Abdulbitm/Abdul/assets/160620896/32ae2162-efe4-448a-afe2-7e850278e547)
+![Screenshot 2024-03-21 183252](https://github.com/abhiram-0301/abhiramk/assets/149863256/4e0fff69-4570-413e-b615-06378d588ac1)
 
 
 4. Instructions Hardcoded
 
-![WhatsApp Image 2024-03-14 at 15 28 49_17d38c51](https://github.com/Abdulbitm/Abdul/assets/160620896/23c86e3e-d2bd-4805-a8d3-2b1f6bde84c8)
+![Screenshot 2024-03-21 183304](https://github.com/abhiram-0301/abhiramk/assets/149863256/2f0bcea4-35ac-4c6d-83ea-2bcec3ed23ac)
 
 
 **Lets move on to the execution Stage with Waveforms obtained for running the gtkwave abhiram.vcd**
@@ -36,36 +38,35 @@ gtkwave abhiram.vcd**
 
 1. When instantiated module is selected we get all the registers and wires as shown in the below figure
 
-   ![WhatsApp Image 2024-03-14 at 14 50 21_80947349](https://github.com/Abdulbitm/Abdul/assets/160620896/d0ad6822-9ef1-4424-89f5-4e8ea783609a)
+![Screenshot 2024-03-20 210455](https://github.com/abhiram-0301/abhiramk/assets/149863256/7e94517c-b074-46e4-8171-3ad7b77b565b)
 
 
 2. Upon adding few signals the waves can be see as shown in the below figure
 
-   ![WhatsApp Image 2024-03-14 at 14 50 22_1ccd2d4a](https://github.com/Abdulbitm/Abdul/assets/160620896/edd173c1-6e89-4164-b5cb-b77a12d78c9b)
+![Screenshot 2024-03-20 205802](https://github.com/abhiram-0301/abhiramk/assets/149863256/64f9559c-b1ec-41ed-81bb-437c3f12ba69)
 
 
-**Output showing the ADD Operation**
+**Output showing the ADD Operation in decimal**
 
-![WhatsApp Image 2024-03-14 at 14 50 22_1ccd2d4a](https://github.com/Abdulbitm/Abdul/assets/160620896/0ba4aae8-32c0-4bd8-8c5b-03e68144c4e2)
+![Screenshot 2024-03-20 205113](https://github.com/abhiram-0301/abhiramk/assets/149863256/ab438fa5-8f23-45d5-92d9-e3adcec4ce77)
 
 
-**Output showing the SUB Operation**
+**Output showing the SUB Operation in decimal**
 
-![WhatsApp Image 2024-03-14 at 14 50 22_49aacb20](https://github.com/Abdulbitm/Abdul/assets/160620896/6e77d55d-f07c-4fe5-8ac5-64677e1657de)
+![Screenshot 2024-03-20 205202](https://github.com/abhiram-0301/abhiramk/assets/149863256/3d571493-1718-4a8e-aac7-7131b3f07f1a)
 
 **Output showing the AND Operation**
 
-![WhatsApp Image 2024-03-14 at 14 51 11_9e3af44e](https://github.com/Abdulbitm/Abdul/assets/160620896/c4f77171-0166-4815-8d50-7820613c9b3a)
+![Screenshot 2024-03-20 205528-1](https://github.com/abhiram-0301/abhiramk/assets/149863256/db7234b9-1085-4ebc-ae14-774011cb5c72)
 
 
 **Output showing the OR Operation**
-![WhatsApp Image 2024-03-14 at 14 51 11_64d882fe](https://github.com/Abdulbitm/Abdul/assets/160620896/45ae0f92-78ab-469a-bacd-5cdb2f7c5578)
 
-![WhatsApp Image 2024-03-14 at 14 51 11_c263287b](https://github.com/Abdulbitm/Abdul/assets/160620896/4d337702-67ac-4800-b7b6-b4bf4a7029f8)
+![Screenshot 2024-03-20 205722-2](https://github.com/abhiram-0301/abhiramk/assets/149863256/3a7b34f9-6e47-4f9d-8f45-35e7517525f4)
 
 **Output showing the XOR Operation**
 
-![WhatsApp Image 2024-03-14 at 14 51 11_64d882fe](https://github.com/Abdulbitm/Abdul/assets/160620896/5584f6ad-a942-460b-a2d1-c44a1a68ca8e)
+![Screenshot 2024-03-20 205802-3](https://github.com/abhiram-0301/abhiramk/assets/149863256/ccd6fce2-9051-4a06-9768-bdf60afcf506)
 
 
 
